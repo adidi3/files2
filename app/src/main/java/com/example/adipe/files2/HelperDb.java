@@ -39,6 +39,7 @@ public  class HelperDb extends SQLiteOpenHelper {
             db.execSQL(strCreate);
 
 
+
             strCreate="CREATE TABLE "+TABLE_AGE;
             strCreate+=" ("+KEY_ID+" INTEGER PRIMARY KEY,";
             strCreate+=" "+AGE+" INTEGER,";
