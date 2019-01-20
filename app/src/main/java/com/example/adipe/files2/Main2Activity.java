@@ -23,7 +23,6 @@ public class Main2Activity extends AppCompatActivity implements AdapterView.OnIt
         Cursor c;
         Spinner spi;
         ArrayAdapter adp;
-
       String [] which={"name","age"};
       ArrayList<String>data=new  ArrayList<>();
 

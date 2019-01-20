@@ -40,6 +40,7 @@ public  class HelperDb extends SQLiteOpenHelper {
 
 
 
+
             strCreate="CREATE TABLE "+TABLE_AGE;
             strCreate+=" ("+KEY_ID+" INTEGER PRIMARY KEY,";
             strCreate+=" "+AGE+" INTEGER,";
