@@ -9,8 +9,10 @@
 
     <item
         android:id="@+id/tab"
-
-
         android:title="tables"
+        />
+    <item
+        android:id="@+id/mai"
+        android:title="main"
         />
 </menu>
